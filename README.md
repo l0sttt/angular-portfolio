@@ -1,4 +1,4 @@
-# angular-portfolio
+# Jacob Trevino's Portfolio
 ## First iteration of my angular portfolio
 This protfolio is made based off of a tutorial I followed, teaching Angular. 
 ## I plan to make three versions:
