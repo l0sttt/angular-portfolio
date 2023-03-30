@@ -1,6 +1,6 @@
 # Jacob Trevino's Portfolio
 ## First iteration of my angular portfolio
-This protfolio is made based off of a tutorial I followed, teaching React.js. 
+This protfolio is made based off of a tutorial I followed, teaching Angular. 
 ## I plan to make three versions:
 
 ### V1:
